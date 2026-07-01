@@ -2,6 +2,8 @@
 
 I design and ship **multi-agent systems, LLM pipelines, and AI tooling** end to end, with the **Anthropic / Claude** ecosystem at the core. My focus is turning LLMs into **reliable, evaluated, production-minded** systems, not demos.
 
+**Portfolio:** [jra-codinglab.github.io](https://jra-codinglab.github.io)
+
 ## Featured work
 
 | Project | What it is |
@@ -36,4 +38,4 @@ I design and ship **multi-agent systems, LLM pipelines, and AI tooling** end to 
 
 ## Contact
 
-Open to **remote AI Engineer** roles. Reach me at **juanruizalonso1940@gmail.com**.
+Open to **remote AI Engineer** roles. See my **[portfolio](https://jra-codinglab.github.io)** or reach me at **juanruizalonso1940@gmail.com**.
